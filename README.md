@@ -1,8 +1,8 @@
+<center><img src="https://github.com/user-attachments/assets/455b3ef2-d35e-4277-809b-78958f45225a" width=500 height=300></center>
+
 # goParams
 
 goParams is a fast, robust, and concurrent tool for harvesting parameterized URLs from various data sources—including the Wayback Machine, Common Crawl, VirusTotal, and AlienVault OTX. It is designed for penetration testers, bug bounty hunters, and security researchers who need to quickly collect and filter URL parameters for further analysis.
-
-![goParams Banner](./assets/banner.png)
 
 ## Features
 
