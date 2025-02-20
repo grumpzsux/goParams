@@ -55,7 +55,7 @@ Flags:
   -o, --output string          Output file for results (if not provided, prints to stdout)
       --canary string          Custom placeholder for URL query parameters when cleaning URLs (default "PLACEHOLDER")
   -v, --verbose                Enable verbose logging
-  -config string               Path to configuration file (default "config.yaml")
+  --config string               Path to configuration file (default "config.yaml")
   -h, --help                   help for goParams
 ```
 
