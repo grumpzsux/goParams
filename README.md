@@ -34,6 +34,10 @@ goParams is a fast, robust, and concurrent tool for harvesting parameterized URL
 - [Go](https://golang.org/) 1.18 or later
 - Git
 
+## Usage
+
+![image](https://github.com/user-attachments/assets/50b38bed-5a5f-4751-b967-461824e38ad7)
+
 ### Clone the Repository
 
 ```bash
